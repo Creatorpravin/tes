@@ -44,7 +44,7 @@ SSL(Secure Sockets Layer) & TLS  (Transport Layer Security) encryptions are comm
 # **BROWSERS**
 
 * Used to display the web pages at GUI.
-* It is using a javascript interpreter(Browser engine) to get elements from render engine.
+* It is using a Browser engine to get elements from render engine.
 Using rendering engine to load img,audio,video,html,etc..,
 * Process the html markup and build the DOM tree.
 * Process css markup and build CSSOM tree.
