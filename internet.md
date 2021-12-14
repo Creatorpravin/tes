@@ -14,7 +14,7 @@ It is an identifying number that is associated with a specific computer or compu
 * We can easily access the website by its name instead of entering the IP address.
 * It requests the server by domain name to get an IP address.
 * Once we enter the name it will search for the IP address for the name bind in
-  - **locally->resolver->root server->TLD(top level domain)->authoritative name server.** 
+  - **locally:arrow_forward:resolver:arrow_forward:root server:arrow_forward:TLD(top level domain):arrow_forward:authoritative name server.** 
 
 ### HTTP(hypertext transfer protocol)
  
@@ -43,7 +43,7 @@ SSL(Secure Sockets Layer) & TLS  (Transport Layer Security) encryptions are comm
 
 # **BROWSERS**
 
-* Used to display the web pages at GUI.
+* Used to display the web pages at Graphical User Interface.
 * It is using a Browser engine to get elements from render engine.
 Using rendering engine to load img,audio,video,html,etc..,
 * Process the html markup and build the DOM tree.
