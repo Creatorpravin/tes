@@ -31,9 +31,20 @@
 * Branching
       - Instead of copying files from directory to directory, Git stores a branch as a reference to a commit. Then merging the branch to master.
 * Merging
-      - merge our corrected file to main branch with comparison.**merge conflict** also happened when both people give pull request then it will be resolved by own only.
+      - merge our corrected file to main branch with comparison.**Merge conflict** also happened when both people give pull request then it will be resolved by own only.
 * Revert 
        - To recover the pervious version from your histor
        - Note: It will delete all your new version after the revert file
-* SSH
-   - You can connect to GitHub using the Secure Shell Protocol (SSH), which provides a secure channel over an unsecured network.
+* SSH - You can connect to GitHub using the Secure Shell Protocol (SSH), which provides a secure channel over an unsecured network.
+
+**STEPS TO PUSH**
+___________________________________
+- Initialize - git init
+- Stage - git add "file_name.html"
+- Commit - git commit -m "message"
+- Push - git push -u origin master
+- Remote - git remote add origin "SSH"
+- Branch - git checkout branch_name
+      
+ **(Also we have to access by Grapical User Interface)**
+
