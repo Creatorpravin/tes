@@ -47,9 +47,8 @@ ___________________________________
 - Branch - git checkout branch_name
       
  **(Also we have to access by Grapical User Interface)**
-<<<<<<< HEAD
  - set token https://youtu.be/uFaYgSVzy3w
      - git remote set-url origin http://TOKEN_HTTPS
-=======
 
->>>>>>> a4a3aa13c003a65db8960f9d9f5909a448ee9420
+
+
