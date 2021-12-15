@@ -18,13 +18,22 @@
 * Repository
      - It act as the main folder.
      - We can store our data as tree format.
+* Clone
+    - Download the whole project to our local system using SSH.
+* Fork
+      - To copy the whole repository on cloud and get sync with that main repository.
+
 * Push 
       -  It is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository like GitHub. 
 * Pull
      -  The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content. 
      - Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows. 
 * Branching
-      -  Instead of copying files from directory to directory, Git stores a branch as a reference to a commit.
-      -   Then merging the branch to master.
-* 
-
+      - Instead of copying files from directory to directory, Git stores a branch as a reference to a commit. Then merging the branch to master.
+* Merging
+      - merge our corrected file to main branch with comparison.**merge conflict** also happened when both people give pull request then it will be resolved by own only.
+* Revert 
+       - To recover the pervious version from your histor
+       - Note: It will delete all your new version after the revert file
+* SSH
+   - You can connect to GitHub using the Secure Shell Protocol (SSH), which provides a secure channel over an unsecured network.
