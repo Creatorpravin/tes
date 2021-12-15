@@ -1,4 +1,4 @@
-# **github**
+# **Github**
 * Introduction
      - At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. 
 
@@ -47,5 +47,9 @@ ___________________________________
 - Branch - git checkout branch_name
       
  **(Also we have to access by Grapical User Interface)**
+<<<<<<< HEAD
  - set token https://youtu.be/uFaYgSVzy3w
      - git remote set-url origin http://TOKEN_HTTPS
+=======
+
+>>>>>>> a4a3aa13c003a65db8960f9d9f5909a448ee9420
