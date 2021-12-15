@@ -54,5 +54,5 @@ Using rendering engine to load img,audio,video,html,etc..,
 * Cookies: 
    - A text files with small pieces of data — like a username and password — that are used to identify your computer as you use a computer network.
 * HTTP cookies: 
-  - it used to identify specific users' sessions and improve your web browsing experience.
-  _________________________________________________________________________________________ 
+  - It used to identify specific users' sessions and improve your web browsing experience...
+ 
